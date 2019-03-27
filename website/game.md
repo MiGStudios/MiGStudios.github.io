@@ -4,4 +4,4 @@ title: Game
 permalink: /game/
 ---
 
-#   mig game
+#   mig game  
